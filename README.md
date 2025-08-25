@@ -70,7 +70,7 @@ Model: Random Forest Regressor
 
 Platform: Jupyter Notebook / Google Colab
 
-Key Features of the Project
+### Key Features of the Project
 
 Handles missing data and categorical variables effectively.
 
